@@ -22,7 +22,7 @@ def run_web():
 BOT_TOKEN = "8299663322:AAFbVh8WZrnlULT47fycTn_OqU32R3JnvEk"
 VERCEL_TOKEN = "TYt6xV8Gnr99oJG3FNTcQQmd"
 TEAM_ID = "team_IKARugTrm6K77V5MqC2C9XCd"
-ADMIN_ID = "@CBXDQ"
+ADMIN_ID = "@cbxdq"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 user_sessions = {}
