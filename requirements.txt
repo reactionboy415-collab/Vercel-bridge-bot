@@ -2,3 +2,5 @@ aiogram
 httpx
 flask
 asyncio
+pyrogram
+tgcrypto
